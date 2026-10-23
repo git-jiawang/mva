@@ -1,0 +1,26 @@
+IMG_SIZE: 
+  - 224
+  - 224
+DATASET: 'multiviewX'
+VIEW_IDS: [0,1,2,3,4,5]
+PROMPT_MODE: 'box'
+TRAJECTORY_LEN: 3
+CKP: 'model_best_train_loss.pth.tar'
+DEPTH: 3
+
+TRAIN:
+  BATCH_SIZE: 1
+  EPOCH: 1200
+  RESUME: False
+  LR: 0.0001
+  LR_FACTOR: 0.1
+  LR_STEP: [900]
+  EDGE_ASSOCIATION: True
+  EDGE_LOSS_WEIGHT: 0.05
+TEST:
+  THRESH: 0.45
+
+REID: False
+ALPHA: 0.1
+
+EXP_DIR: './results/edge/exp1_005_3layer'
