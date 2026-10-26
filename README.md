@@ -1,7 +1,7 @@
 ## **A Calibration-Free Multi-View Person Association Approach via Implicit Trajectory Geometry Modeling**
 
 ### Overall framework
-<img src="data/method.png" width="1200"/>
+<img src="data/method.png" width="800"/>
 
 #### In this repo we provide:
 - Training and testing code. 
