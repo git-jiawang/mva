@@ -20,7 +20,7 @@ def update_config(config_file):
 config = edict()
 
 config.GPUS = '0'
-config.USE_GPUS = '5'
+config.USE_GPUS = '0'
 
 config.IMG_SIZE = (224, 224)
 config.DATASET = 'wildtrack'
