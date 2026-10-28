@@ -23,15 +23,4 @@ TEST:
 REID: False
 ALPHA: 0.1
 
-# EXP_DIR: './results/no_edge/exp4'
-EXP_DIR: './results/edge/exp4'
-
-# EXP_DIR: './results/no_edge/exp1'
-# EXP_DIR: './results/edge/exp1'
-
-# EXP_DIR: './results/no_edge/exp2'
-# EXP_DIR: './results/edge/exp2'
-
-# EXP_DIR: './results/no_edge/exp3'
-# EXP_DIR: './results/edge/exp3'
-# EXP_DIR: './results/edge/exp3_005'
+EXP_DIR: './results'
