@@ -23,4 +23,4 @@ TEST:
 REID: False
 ALPHA: 0.1
 
-EXP_DIR: './results/edge/exp1_005_3layer'
+EXP_DIR: './results'
