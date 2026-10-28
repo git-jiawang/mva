@@ -23,20 +23,4 @@ TEST:
 REID: False
 ALPHA: 0.1
 
-# EXP_DIR: './results/no_edge/exp1'
-# EXP_DIR: './results/edge/exp1'
-
-# EXP_DIR: './results/no_edge/exp2'
-EXP_DIR: './results/edge/exp2'
-
-
-# EXP_DIR: './results/edge/xiaorong1'
-# EXP_DIR: './results/edge/xiaorong2'
-# EXP_DIR: './results/edge/xiaorong3'
-# EXP_DIR: './results/edge/xiaorong4'
-# EXP_DIR: './results/edge/xiaorong5'
-
-# EXP_DIR: './results/edge/(1)'
-# EXP_DIR: './results/edge/(2)'
-# EXP_DIR: './results/edge/(3)'
-# EXP_DIR: './results/edge/(4)'
+EXP_DIR: './results'
